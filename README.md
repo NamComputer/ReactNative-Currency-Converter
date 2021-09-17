@@ -9,6 +9,10 @@
 7. util: Là nơi chứa các thứ làm với API, database,...
 8. index: Dùng để tổng hợp các component con.
 
+***Sau khi bạn tạo một thư mục blank bằng expo, thì hãy xóa đi file index.js và thay bằng file App của mình và chạy như bình thường*
+
+- Mình sử dụng Expo để làm cánh cửa trung gian kết nối tới các Virtual Device. Để biết thêm thông tin truy cập https://docs.expo.dev/workflow/expo-cli/
+
  **MỘt số hình ảnh giao diện của app**
  ![Screenshot from 2021-09-04 14-55-24_editted](https://user-images.githubusercontent.com/75820882/133725984-43bd8fbd-2aaf-43d2-9008-6896d7cf9653.png)
 ![Screenshot from 2021-09-17 11-14-49](https://user-images.githubusercontent.com/75820882/133725996-2dbc492a-c184-4b3d-b0f3-08bcb9d10e8b.png)
