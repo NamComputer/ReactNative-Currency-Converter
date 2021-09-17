@@ -1,0 +1,9 @@
+yarn add --dev prettier
+
+yarn add --dev eslint eslint-config-handlebarlabs
+
+yarn add date-fns
+
+yarn add @react-navigation/native @react-navigation/stack
+expo install react-native-gesture-handler react-native-reanimated react-nat
+ive-screens react-native-safe-area-context @react-native-community/masked-view
